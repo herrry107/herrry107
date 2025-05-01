@@ -22,7 +22,7 @@
       <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="55" height="55"/>
+      <img src="https://github.com/herrry107/herrry107/blob/main/AWS.png" alt="aws" width="55" height="55"/>
 </p>
 
 ---
