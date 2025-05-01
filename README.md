@@ -25,5 +25,9 @@
       <img src="https://github.com/herrry107/herrry107/blob/main/AWS.png" alt="aws" width="55" height="55"/>
 </p>
 
+<p align="right" style="padding:5px;">
+      <img src="https://github.com/herrry107/herrry107/blob/main/coding.gif" alt="code" width="350"/>
+</p>
+
 ---
 
