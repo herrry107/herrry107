@@ -26,8 +26,8 @@
 </p>
 
 <p align="center" style="padding:5px;">
-      <img src="https://github.com/herrry107/herrry107/blob/main/devops.gif" alt="code" width=350 height="200"/>
-      <img src="https://github.com/herrry107/herrry107/blob/main/coding.gif" alt="code" width="260" height="200"/>
+      <img src="https://github.com/herrry107/herrry107/blob/main/devops1.gif" alt="code" width=370 height="190"/>
+      <img src="https://github.com/herrry107/herrry107/blob/main/coding.gif" alt="code" width="250" height="190"/>
 </p>
   
 ---
